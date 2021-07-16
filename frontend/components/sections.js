@@ -8,6 +8,7 @@ import TestimonialsGroup from "@/components/sections/testimonials-group";
 import RichText from "./sections/rich-text";
 import Pricing from "./sections/pricing";
 import LeadForm from "./sections/lead-form";
+import OtherTestSection from "./sections/other-test-section";
 
 // Map Strapi sections to section components
 const sectionComponents = {
@@ -20,6 +21,7 @@ const sectionComponents = {
   "sections.rich-text": RichText,
   "sections.pricing": Pricing,
   "sections.lead-form": LeadForm,
+  "sections.other-test-section": OtherTestSection,
 };
 
 // Display a section individually

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_other_test_sections",
+  "info": {
+    "name": "OtherTestSection",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
